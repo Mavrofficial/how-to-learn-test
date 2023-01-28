@@ -329,7 +329,7 @@ z-index: 3;
   padding: 20px 0 16px 0;
 }
 
-.footer__text{
+.footer__column-link{
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -338,7 +338,7 @@ z-index: 3;
   margin: 0;
 }
 
-.footer__text-icon{
+.footer__social-icon{
   padding-right: 10px;
   width: 16px;
   height: 16px;
